@@ -59,9 +59,9 @@ h3 {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
+  line-height: 1.5;
   font-family: 'Itim', cursive;
-  font-size: 120%;
+  font-size: 130%;
 }
 
 .skill-photo {
@@ -86,7 +86,7 @@ h3 {
  width: 30%;
  margin: auto;
  font-family: 'Itim', cursive;
- font-size: 135%;
+ font-size: 150%;
 }
 
 hr {
@@ -138,9 +138,14 @@ hr {
 
 .credits {
   font-family: 'Itim', cursive;
+
 }
 
 .contact-message {
   font-family: 'Itim', cursive;
-  font-size: 120%;
+  font-size: 135%;
+}
+
+.getintouch {
+  font-size: 170%;
 }
